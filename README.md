@@ -39,20 +39,6 @@ With the set of packages you are searching, you can also restrict the set of mod
 * `fold +Data.Map` finds results in the `Data.Map` module
 
 
-## Folders
-
-The folders in the distribution, and their meaning are:
-
-data - tools to generate a hoogle data file
-
-docs - documentation on hoogle
-
-misc - presentations, icons, emacs scripts, logos
-
-src  - source code
-
-web  - additional resources for the web front end (css, jpg etc.)
-
 ## Similar Tool
 
 * [Google](http://www.google.com/), the leader in online search
